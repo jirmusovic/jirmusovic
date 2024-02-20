@@ -1,6 +1,6 @@
 ### Hello there 
 
-**pro FITaky: decka, jestli chcete kopirovat moje projekty, posluzte si, ale nebudte tak blbi a myslete na plagiat, fakt se to kontroluje a ja to mam kryty licenci, takze to bude na vas a utrete**
+**pro FITaky: decka, jestli chcete kopirovat moje projekty, posluzte si, ale nebudte blbi a myslete na plagiat, fakt se to kontroluje a ja to mam kryty licenci, takze to bude na vas a utrete**
 
 
 
